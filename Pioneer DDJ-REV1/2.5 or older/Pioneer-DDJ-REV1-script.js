@@ -35,7 +35,7 @@
 // @ts-nocheck
 
 // ****************************************************************************
-// * Authors: Warker, nschloe, dj3730, jusko, tiesjan, Alexandr, 0b1, AKOI
+// * Authors: Warker, nschloe, dj3730, jusko, tiesjan, Alexandr, mjlyon, 0b1, AKOI
 // * Reviewers: Be-ing, Holzhaus
 // * Manual: https://www.pioneerdj.com/en/support/documents/ddj-rev1/
 // * Forum: https://mixxx.discourse.group/t/pioneer-ddj-rev1-mapping/27062/15
