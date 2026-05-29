@@ -1,4 +1,9 @@
-# Mixxx: Pioneer DDJ REV1 mapping
+# Outdated Mapping 
+## Soon to be archived. See updated mapping for 2.5/2.6 compatiability, brake, beat slice and more. 
+
+https://github.com/AKOI-TTI/mixxxcontrollermapping_REV1_v2.2/releases/new
+
+### Mixxx: Pioneer DDJ REV1 mapping
 
 ## To Use it:
 
