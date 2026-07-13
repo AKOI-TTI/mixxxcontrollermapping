@@ -1,21 +1,6 @@
-# Mixxx: Pioneer DDJ REV1 mapping
+# Outdated Mapping
+## Soon to be archived. 
+## See updated mapping for 2.5/2.6 compatiability, brake, beat slice, piano, numerous bug fixes and more.
 
-## To Use it:
-
-Copy the `Pioneer-DDJ-REV1-script.js` and `Pioneer DDJ-REV1.midi.xml` files into your User Mapping folder. 
-
-### Windows
-    %LOCALAPPDATA%\Mixxx
-### macOS
-    Mixxx 2.3: ~/Library/Containers/org.mixxx.mixxx/Data/Library/Application Support/Mixxx
-    Mixxx 2.2 and earlier: ~/Library/Application Support/Mixxx
-### Linux
-    ~/.mixxx/
-    This resolves to /home/<your-username>/.mixxx
-    
-    
-Restart Mixxx and load the mapping.
-
-**For more infomration follow the** [official Mixxx guide](https://manual.mixxx.org/2.3/en/chapters/controlling_mixxx.html#installing-a-mapping-from-the-forum).
-
+https://github.com/AKOI-TTI/mixxxcontrollermapping_REV1_v2.4/releases
 -------------
