@@ -1,8 +1,12 @@
-# Outdated Mapping 
-## Soon to be archived. See updated mapping for 2.5/2.6 compatiability, brake, beat slice and more. 
+# Outdated Mapping
+## Soon to be archived. 
+## See updated mapping for 2.5/2.6 compatiability, brake, beat slice, piano, numerous bug fixes and more.
 
-[https://github.com/AKOI-TTI/mixxxcontrollermapping_REV1_v2.2/releases/new
-](https://github.com/AKOI-TTI/mixxxcontrollermapping_REV1_v2.2/releases/tag/REV1_2.2)
+https://github.com/AKOI-TTI/mixxxcontrollermapping_REV1_v2.4/releases
+-------------
+-------------
+
+
 ### Mixxx: Pioneer DDJ REV1 mapping
 
 ## To Use it:
